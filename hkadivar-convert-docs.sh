@@ -4,7 +4,7 @@
 Rubaiyat=rubaiyat.md
 
 # Convert markdown to HTML
-echo 'rubaiyat'
+echo "`rubaiyat`"
 
 # Convert markdown to DOCX
 
@@ -13,3 +13,4 @@ echo 'rubaiyat'
 # Convert markdown to PDF
 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
+read rubaiyat
