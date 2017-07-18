@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 # Declare input argument as a variable
 
