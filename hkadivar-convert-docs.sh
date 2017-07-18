@@ -4,6 +4,7 @@
 Rubaiyat=rubaiyat.md
 
 # Convert markdown to HTML
+echo 'rubaiyat'
 
 # Convert markdown to DOCX
 
