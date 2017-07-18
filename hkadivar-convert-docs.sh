@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Declare input argument as a variable
+#Declare input argument as a variable
+Rubaiyat=rubaiyat.md
 
 # Convert markdown to HTML
 
